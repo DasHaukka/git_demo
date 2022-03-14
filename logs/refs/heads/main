@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 82966502f67924a9121bf33f0f429282e046092f Joni Saaristo <joni.saaristo@edu.riveria.fi> 1646217452 +0200	commit (initial): Lisätty tiedosto a.txt
+82966502f67924a9121bf33f0f429282e046092f 7d704485af08aec07920037783aecaaf7b0045ea Joni Saaristo <joni.saaristo@edu.riveria.fi> 1646218551 +0200	commit (amend): Lisätty tiedosto a.txt ja b.txt
+7d704485af08aec07920037783aecaaf7b0045ea db18ff26b1e0daf12d9c573f30d9b82b51cf2e4d Joni Saaristo <joni.saaristo@edu.riveria.fi> 1646220733 +0200	commit: Luotu tiedostot c.txt ja d.txt
+db18ff26b1e0daf12d9c573f30d9b82b51cf2e4d e3721ab0c1c9d89d01904c0f3dc1a7740c04bd17 Joni Saaristo <joni.saaristo@edu.riveria.fi> 1646221934 +0200	merge uusihaara: Fast-forward
+e3721ab0c1c9d89d01904c0f3dc1a7740c04bd17 67ac71931b91506895e0cbdc9c8df488ec890478 Joni Saaristo <joni.saaristo@edu.riveria.fi> 1646222292 +0200	commit: Lisätty tiedosto x.txt
+67ac71931b91506895e0cbdc9c8df488ec890478 55ea5b7437c1c7e13c3e8c68d440855830d567f8 Joni Saaristo <joni.saaristo@edu.riveria.fi> 1646222508 +0200	commit: Lisätty tiedosto x.txt
+55ea5b7437c1c7e13c3e8c68d440855830d567f8 cd1112d90fe03a907b37deaf672167eccb485bdb Joni Saaristo <joni.saaristo@edu.riveria.fi> 1646222588 +0200	commit: Lisätty virheellistä sisältöä
+cd1112d90fe03a907b37deaf672167eccb485bdb 4948e4c8e6aa7ce51e8367b37770a54fe504b619 Joni Saaristo <joni.saaristo@edu.riveria.fi> 1646223330 +0200	commit: poistettu tiedosto x.txt
+4948e4c8e6aa7ce51e8367b37770a54fe504b619 cd1112d90fe03a907b37deaf672167eccb485bdb Joni Saaristo <joni.saaristo@edu.riveria.fi> 1646223628 +0200	reset: moving to HEAD~1
+cd1112d90fe03a907b37deaf672167eccb485bdb cd1112d90fe03a907b37deaf672167eccb485bdb Joni Saaristo <joni.saaristo@edu.riveria.fi> 1647245236 +0200	Branch: renamed refs/heads/master to refs/heads/main
+cd1112d90fe03a907b37deaf672167eccb485bdb b68a7f682a2c968e9a13aece24e4ebe8ce716eed Joni Saaristo <joni.saaristo@edu.riveria.fi> 1647250911 +0200	pull: Fast-forward
